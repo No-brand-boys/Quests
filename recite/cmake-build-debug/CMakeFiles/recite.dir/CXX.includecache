@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Tools/CLionProjects/Quests/recite/main.cpp
+stdio.h
+-
+model.h
+D:/Tools/CLionProjects/Quests/recite/model.h
+
+D:/Tools/CLionProjects/Quests/recite/model.h
+stdio.h
+-
+

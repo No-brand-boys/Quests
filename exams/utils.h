@@ -5,9 +5,10 @@
 #include <stdlib.h>
 
 char *input(const char *hint) {
-    char *content = (char *)calloc(100, sizeof(char));
+    char *content = (char *) calloc(100, sizeof(char));
     printf("%s\n", hint);
     scanf("%[^\n]", content);
+    setbuf(stdin, nullptr);
     return content;
 }
 

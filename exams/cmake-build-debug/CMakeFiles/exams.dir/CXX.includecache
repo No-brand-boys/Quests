@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Tools/CLionProjects/Quests/exams/main.cpp
+stdio.h
+-
+conio.h
+-
+model.h
+D:/Tools/CLionProjects/Quests/exams/model.h
+utils.h
+D:/Tools/CLionProjects/Quests/exams/utils.h
+
+D:/Tools/CLionProjects/Quests/exams/model.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+utils.h
+D:/Tools/CLionProjects/Quests/exams/utils.h
+
+D:/Tools/CLionProjects/Quests/exams/utils.h
+stdio.h
+-
+stdlib.h
+-
+

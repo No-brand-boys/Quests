@@ -83,6 +83,12 @@
 		<Unit filename="D:/Tools/CLionProjects/Quests/online/main.cpp">
 			<Option target="online"/>
 		</Unit>
+		<Unit filename="D:/Tools/CLionProjects/Quests/online/model.h">
+			<Option target="online"/>
+		</Unit>
+		<Unit filename="D:/Tools/CLionProjects/Quests/online/util.h">
+			<Option target="online"/>
+		</Unit>
 		<Unit filename="D:/Tools/CLionProjects/Quests/online/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

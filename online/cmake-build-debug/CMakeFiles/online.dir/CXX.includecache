@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Tools/CLionProjects/Quests/online/main.cpp
+stdio.h
+-
+time.h
+-
+model.h
+D:/Tools/CLionProjects/Quests/online/model.h
+util.h
+D:/Tools/CLionProjects/Quests/online/util.h
+
+D:/Tools/CLionProjects/Quests/online/model.h
+stdio.h
+-
+time.h
+-
+string.h
+-
+stdlib.h
+-
+math.h
+-
+util.h
+D:/Tools/CLionProjects/Quests/online/util.h
+
+D:/Tools/CLionProjects/Quests/online/util.h
+stdio.h
+-
+stdlib.h
+-
+

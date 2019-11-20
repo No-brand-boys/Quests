@@ -1,0 +1,16 @@
+0001 zhuanghua 3
+0002 liming 2
+0003 xiaohong 1
+0004 luwei 0
+0005 qiaobiluo 4
+0006 zhangwei 2
+0007 cxk 3
+0008 liumou 1
+0009 sunquan 2
+0010 wuzun 4
+0011 shuqi 1
+0012 wangba 3
+0013 zhoumou 4
+0014 kongzi 1
+0015 zunlong 0
+0016 wuyanzu 0

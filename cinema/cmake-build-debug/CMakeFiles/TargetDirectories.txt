@@ -1,0 +1,3 @@
+D:/Tools/CLionProjects/Quests/cinema/cmake-build-debug/CMakeFiles/cinema.dir
+D:/Tools/CLionProjects/Quests/cinema/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Tools/CLionProjects/Quests/cinema/cmake-build-debug/CMakeFiles/rebuild_cache.dir
